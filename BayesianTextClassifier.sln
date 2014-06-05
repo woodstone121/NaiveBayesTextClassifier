@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BayesianTextClassifier", "BayesianTextClassifier\BayesianTextClassifier.vcxproj", "{DC3939E9-E878-4CDB-925D-062D93ABFF97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC3939E9-E878-4CDB-925D-062D93ABFF97}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DC3939E9-E878-4CDB-925D-062D93ABFF97}.Debug|Win32.Build.0 = Debug|Win32
+		{DC3939E9-E878-4CDB-925D-062D93ABFF97}.Release|Win32.ActiveCfg = Release|Win32
+		{DC3939E9-E878-4CDB-925D-062D93ABFF97}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

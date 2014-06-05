@@ -1,0 +1,6 @@
+*.sdf
+/Release
+/Debug
+/BayesianTextClassifier/test
+/BayesianTextClassifier/Release
+/BayesianTextClassifier/Debug
